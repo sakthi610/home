@@ -1085,7 +1085,7 @@ html{
     position: absolute;
     bottom: 40px;    /* adjust spacing from bottom */
     right: 20px;     /* keep aligned to right */
-    transform: translate(-7%,-50px); /* remove vertical centering */
+    transform: translate(-5%,-50px); /* remove vertical centering */
     text-align: center;
 }
     
@@ -1137,4 +1137,5 @@ html{
     }
 
 }
+
 
