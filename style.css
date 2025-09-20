@@ -1085,7 +1085,7 @@ html{
     position: absolute;
     bottom: 40px;    /* adjust spacing from bottom */
     right: 20px;     /* keep aligned to right */
-    transform: translate(-15%,-50px); /* remove vertical centering */
+    transform: translate(-10%,-50px); /* remove vertical centering */
     text-align: center;
 }
     
@@ -1135,4 +1135,5 @@ html{
     .copyright {
         font-size: 14px;
     }
+
 }
